@@ -14,3 +14,4 @@ def wlx():
     return render_template("mood.html",s=s)
 if __name__ == '__main__':
     app.run()
+# fixed
